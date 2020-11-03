@@ -12,7 +12,7 @@ int main(){
 int numbers_of_rooms {0};
 cin >> numbers_of_rooms;
 
-const double price_per_room {30.0};
+const double price_per_room {32.5};
 const double sales_tax {0.06};
 const int estimate_expiry {30}; //days
 
