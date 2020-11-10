@@ -3,7 +3,8 @@
   <Project Name="FirstProgram" Path="FirstProgram/FirstProgram.project" Active="No"/>
   <Project Name="Constants" Path="Constants/Constants.project" Active="No"/>
   <Project Name="Challenge" Path="Challenge/Challenge.project" Active="No"/>
-  <Project Name="Array" Path="Array/Array.project" Active="Yes"/>
+  <Project Name="Array" Path="Array/Array.project" Active="No"/>
+  <Project Name="Vectors" Path="Vectors/Vectors.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug" Selected="yes">
       <Environment/>
@@ -11,6 +12,7 @@
       <Project Name="Constants" ConfigName="Debug"/>
       <Project Name="Challenge" ConfigName="Debug"/>
       <Project Name="Array" ConfigName="Debug"/>
+      <Project Name="Vectors" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release" Selected="yes">
       <Environment/>
@@ -18,6 +20,7 @@
       <Project Name="Constants" ConfigName="Release"/>
       <Project Name="Challenge" ConfigName="Release"/>
       <Project Name="Array" ConfigName="Release"/>
+      <Project Name="Vectors" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
