@@ -6,6 +6,8 @@
   <Project Name="Array" Path="Array/Array.project" Active="No"/>
   <Project Name="Vectors" Path="Vectors/Vectors.project" Active="No"/>
   <Project Name="VectorChallenge" Path="VectorChallenge/VectorChallenge.project" Active="Yes"/>
+  <Project Name="ArithmeticOperators" Path="ArithmeticOperators/ArithmeticOperators.project" Active="No"/>
+  <Project Name="Euros" Path="Euros/Euros.project" Active="No"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug" Selected="yes">
       <Environment/>
@@ -15,6 +17,8 @@
       <Project Name="Array" ConfigName="Debug"/>
       <Project Name="Vectors" ConfigName="Debug"/>
       <Project Name="VectorChallenge" ConfigName="Debug"/>
+      <Project Name="ArithmeticOperators" ConfigName="Debug"/>
+      <Project Name="Euros" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release" Selected="yes">
       <Environment/>
@@ -24,6 +28,8 @@
       <Project Name="Array" ConfigName="Release"/>
       <Project Name="Vectors" ConfigName="Release"/>
       <Project Name="VectorChallenge" ConfigName="Release"/>
+      <Project Name="ArithmeticOperators" ConfigName="Release"/>
+      <Project Name="Euros" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>

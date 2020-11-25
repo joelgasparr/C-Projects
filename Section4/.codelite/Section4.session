@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Session Name="/Users/joelgaspar/Payo/CPPExamples/Section4/Section4.workspace">
-  <int Value="4" Name="m_selectedTab"/>
+  <int Value="6" Name="m_selectedTab"/>
   <wxString Value="/Users/joelgaspar/Payo/CPPExamples/Section4/Section4.workspace" Name="m_workspaceName"/>
   <TabInfoArray Name="TabInfoArray">
     <TabInfo>
       <wxString Value="/Users/joelgaspar/Payo/CPPExamples/Section4/Constants/main.cpp" Name="FileName"/>
-      <int Value="5" Name="FirstVisibleLine"/>
+      <int Value="6" Name="FirstVisibleLine"/>
       <int Value="33" Name="CurrentLine"/>
       <wxArrayString Name="Bookmarks"/>
       <IntVector Name="CollapsedFolds"/>
@@ -33,8 +33,29 @@
     </TabInfo>
     <TabInfo>
       <wxString Value="/Users/joelgaspar/Payo/CPPExamples/Section4/Vectors/main.cpp" Name="FileName"/>
-      <int Value="2" Name="FirstVisibleLine"/>
+      <int Value="35" Name="FirstVisibleLine"/>
       <int Value="36" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="/Users/joelgaspar/Payo/CPPExamples/Section4/VectorChallenge/main.cpp" Name="FileName"/>
+      <int Value="62" Name="FirstVisibleLine"/>
+      <int Value="64" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="/Users/joelgaspar/Payo/CPPExamples/Section4/ArithmeticOperators/main.cpp" Name="FileName"/>
+      <int Value="2" Name="FirstVisibleLine"/>
+      <int Value="13" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="/Users/joelgaspar/Payo/CPPExamples/Section4/Euros/main.cpp" Name="FileName"/>
+      <int Value="0" Name="FirstVisibleLine"/>
+      <int Value="20" Name="CurrentLine"/>
       <wxArrayString Name="Bookmarks"/>
       <IntVector Name="CollapsedFolds"/>
     </TabInfo>
