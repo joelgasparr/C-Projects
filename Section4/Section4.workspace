@@ -5,9 +5,11 @@
   <Project Name="Challenge" Path="Challenge/Challenge.project" Active="No"/>
   <Project Name="Array" Path="Array/Array.project" Active="No"/>
   <Project Name="Vectors" Path="Vectors/Vectors.project" Active="No"/>
-  <Project Name="VectorChallenge" Path="VectorChallenge/VectorChallenge.project" Active="Yes"/>
+  <Project Name="VectorChallenge" Path="VectorChallenge/VectorChallenge.project" Active="No"/>
   <Project Name="ArithmeticOperators" Path="ArithmeticOperators/ArithmeticOperators.project" Active="No"/>
   <Project Name="Euros" Path="Euros/Euros.project" Active="No"/>
+  <Project Name="IncrementandDecrementOperators" Path="IncrementandDecrementOperators/IncrementandDecrementOperators.project" Active="No"/>
+  <Project Name="MixedExpressionsAndConversions" Path="MixedExpressionsAndConversions/MixedExpressionsAndConversions.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug" Selected="yes">
       <Environment/>
@@ -19,6 +21,8 @@
       <Project Name="VectorChallenge" ConfigName="Debug"/>
       <Project Name="ArithmeticOperators" ConfigName="Debug"/>
       <Project Name="Euros" ConfigName="Debug"/>
+      <Project Name="IncrementandDecrementOperators" ConfigName="Debug"/>
+      <Project Name="MixedExpressionsAndConversions" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release" Selected="yes">
       <Environment/>
@@ -30,6 +34,8 @@
       <Project Name="VectorChallenge" ConfigName="Release"/>
       <Project Name="ArithmeticOperators" ConfigName="Release"/>
       <Project Name="Euros" ConfigName="Release"/>
+      <Project Name="IncrementandDecrementOperators" ConfigName="Release"/>
+      <Project Name="MixedExpressionsAndConversions" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
