@@ -1,8 +1,8 @@
 .PHONY: clean All
 
 All:
-	@echo "----------Building project:[ MixedExpressionsAndConversions - Debug ]----------"
-	@cd "MixedExpressionsAndConversions" && "$(MAKE)" -f  "MixedExpressionsAndConversions.mk"
+	@echo "----------Building project:[ TestingForEquality - Debug ]----------"
+	@cd "TestingForEquality" && "$(MAKE)" -f  "TestingForEquality.mk"
 clean:
-	@echo "----------Cleaning project:[ MixedExpressionsAndConversions - Debug ]----------"
-	@cd "MixedExpressionsAndConversions" && "$(MAKE)" -f  "MixedExpressionsAndConversions.mk" clean
+	@echo "----------Cleaning project:[ TestingForEquality - Debug ]----------"
+	@cd "TestingForEquality" && "$(MAKE)" -f  "TestingForEquality.mk" clean
