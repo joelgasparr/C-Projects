@@ -13,7 +13,8 @@
   <Project Name="TestingForEquality" Path="TestingForEquality/TestingForEquality.project" Active="No"/>
   <Project Name="RelationalOperators" Path="RelationalOperators/RelationalOperators.project" Active="No"/>
   <Project Name="LogicalOperators" Path="LogicalOperators/LogicalOperators.project" Active="No"/>
-  <Project Name="Pennies" Path="Pennies/Pennies.project" Active="Yes"/>
+  <Project Name="Pennies" Path="Pennies/Pennies.project" Active="No"/>
+  <Project Name="IfStatement" Path="IfStatement/IfStatement.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug" Selected="yes">
       <Environment/>
@@ -31,6 +32,7 @@
       <Project Name="RelationalOperators" ConfigName="Debug"/>
       <Project Name="LogicalOperators" ConfigName="Debug"/>
       <Project Name="Pennies" ConfigName="Debug"/>
+      <Project Name="IfStatement" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release" Selected="yes">
       <Environment/>
@@ -48,6 +50,7 @@
       <Project Name="RelationalOperators" ConfigName="Release"/>
       <Project Name="LogicalOperators" ConfigName="Release"/>
       <Project Name="Pennies" ConfigName="Release"/>
+      <Project Name="IfStatement" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
